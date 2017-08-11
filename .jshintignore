@@ -1,0 +1,4 @@
+assets/javascripts/admin/libs/**/*
+assets/javascripts/front/libs/**/*
+assets/javascripts/admin/vendor/**/*
+assets/javascripts/front/vendor/**/*
